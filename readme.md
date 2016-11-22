@@ -7,7 +7,7 @@ A skeleton application utilizing vue, vuex, vue-resource and vue-router.
 To get started, simply run the following command in your terminal...
 
 ```bash
-brunch new --skeleton nblackburn/brunch-with-vue
+brunch new --skeleton femaref/brunch-with-vue
 ```
 
 ## Donations
